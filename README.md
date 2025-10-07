@@ -35,18 +35,18 @@ It continuously buffers live video and saves event-triggered clips (e.g., Drowsi
 
 ```
 
-event\_recorder\_project/
-├── clip\_writer.py        \# Handles saving buffered clips with metadata
-├── event\_simulator.py    \# Simulates AI event detection (mock YOLO)
-├── run\_capture.py        \# Main camera recording and event trigger logic
-├── fastapi\_server.py     \# FastAPI backend to view/download clips
-├── metadata\_db.py        \# Handles metadata storage in SQLite
-├── events.db             \# SQLite database for events
-├── metadata.json         \# JSON log for quick event info
-├── requirements.txt      \# Python dependencies
-├── README.md             \# Project documentation
-├── .gitignore            \# Ignores venv, cache, etc.
-└── /clips/               \# Stores saved event video clips
+event_recorder_project/
+│
+├─ clips/               # Saved video clips
+├─ venv/                # Virtual environment
+├─ run_capture.py       # Main capture script
+├─ event_simulator.py   # Mock AI event generator
+├─ clip_writer.py       # Video saving utility
+├─ metadata_db.py       # Database and JSON handling
+├─ fastapi_server.py    # Web interface API
+├─ requirements.txt
+├─ README.md
+└─ events.db            # SQLite database
 
 ````
 
