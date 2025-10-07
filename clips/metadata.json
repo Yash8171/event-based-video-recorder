@@ -1,0 +1,479 @@
+[
+  {
+    "id": 53,
+    "filename": "clip_NoSeatBelt_20251007T081111Z.mp4",
+    "event_type": "NoSeatBelt",
+    "timestamp": "2025-10-07 13:41:06.871973",
+    "gps_lat": 28.52663163812375,
+    "gps_lon": 77.38401261710356,
+    "duration": 15.0
+  },
+  {
+    "id": 52,
+    "filename": "clip_NoSeatBelt_20251007T081044Z.mp4",
+    "event_type": "NoSeatBelt",
+    "timestamp": "2025-10-07 13:40:35.845161",
+    "gps_lat": 28.52819021814818,
+    "gps_lon": 77.38165557806867,
+    "duration": 15.0
+  },
+  {
+    "id": 51,
+    "filename": "clip_NoSeatBelt_20251007T081007Z.mp4",
+    "event_type": "NoSeatBelt",
+    "timestamp": "2025-10-07 13:39:58.966778",
+    "gps_lat": 28.528915043194502,
+    "gps_lon": 77.39805616498148,
+    "duration": 15.0
+  },
+  {
+    "id": 50,
+    "filename": "clip_NoSeatBelt_20251007T080929Z.mp4",
+    "event_type": "NoSeatBelt",
+    "timestamp": "2025-10-07 13:39:20.532456",
+    "gps_lat": 28.540523466573582,
+    "gps_lon": 77.38699520344868,
+    "duration": 15.0
+  },
+  {
+    "id": 49,
+    "filename": "clip_MobileUsage_20251007T080834Z.mp4",
+    "event_type": "MobileUsage",
+    "timestamp": "2025-10-07 13:38:26.150358",
+    "gps_lat": 28.532804312651415,
+    "gps_lon": 77.38991275208535,
+    "duration": 15.0
+  },
+  {
+    "id": 48,
+    "filename": "clip_NoSeatBelt_20251007T080755Z.mp4",
+    "event_type": "NoSeatBelt",
+    "timestamp": "2025-10-07 13:37:46.737735",
+    "gps_lat": 28.532424801758772,
+    "gps_lon": 77.39812328610837,
+    "duration": 15.0
+  },
+  {
+    "id": 47,
+    "filename": "clip_Yawning_20251007T080710Z.mp4",
+    "event_type": "Yawning",
+    "timestamp": "2025-10-07 13:37:01.809293",
+    "gps_lat": 28.539775530999428,
+    "gps_lon": 77.39886562269572,
+    "duration": 15.0
+  },
+  {
+    "id": 46,
+    "filename": "clip_Yawning_20251007T080645Z.mp4",
+    "event_type": "Yawning",
+    "timestamp": "2025-10-07 13:36:39.121666",
+    "gps_lat": 28.533170674938603,
+    "gps_lon": 77.39680852573821,
+    "duration": 15.0
+  },
+  {
+    "id": 45,
+    "filename": "clip_Yawning_20251007T080556Z.mp4",
+    "event_type": "Yawning",
+    "timestamp": "2025-10-07 13:35:47.278292",
+    "gps_lat": 28.528118110675813,
+    "gps_lon": 77.3856681414053,
+    "duration": 15.0
+  },
+  {
+    "id": 44,
+    "filename": "clip_Drowsiness_20251007T080447Z.mp4",
+    "event_type": "Drowsiness",
+    "timestamp": "2025-10-07 13:34:38.588827",
+    "gps_lat": 28.53458330338331,
+    "gps_lon": 77.38392045919267,
+    "duration": 15.0
+  },
+  {
+    "id": 43,
+    "filename": "clip_Dummy.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07T13:34:44.714225",
+    "gps_lat": 28.54,
+    "gps_lon": 77.38,
+    "duration": 30.0
+  },
+  {
+    "id": 42,
+    "filename": "clip_Yawning_20251007T080408Z.mp4",
+    "event_type": "Yawning",
+    "timestamp": "2025-10-07 13:33:59.068157",
+    "gps_lat": 28.531448320438624,
+    "gps_lon": 77.39120266862447,
+    "duration": 15.0
+  },
+  {
+    "id": 41,
+    "filename": "clip_ManualTrigger_20251007T080234Z.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07 13:32:25.288605",
+    "gps_lat": 28.542477882682636,
+    "gps_lon": 77.39330195804916,
+    "duration": 15.0
+  },
+  {
+    "id": 40,
+    "filename": "clip_MobileUsage_20251007T075851Z.mp4",
+    "event_type": "MobileUsage",
+    "timestamp": "2025-10-07 13:28:51.411935",
+    "gps_lat": 28.52727090604194,
+    "gps_lon": 77.38452125902951,
+    "duration": 0.1
+  },
+  {
+    "id": 39,
+    "filename": "clip_ManualTrigger_20251007T075510Z.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07 13:25:01.326442",
+    "gps_lat": 28.542342519935353,
+    "gps_lon": 77.38285921703879,
+    "duration": 15.0
+  },
+  {
+    "id": 38,
+    "filename": "clip_Yawning_20251007T075115Z.mp4",
+    "event_type": "Yawning",
+    "timestamp": "2025-10-07 13:21:06.780325",
+    "gps_lat": 28.52934765600706,
+    "gps_lon": 77.38791164420688,
+    "duration": 15.0
+  },
+  {
+    "id": 37,
+    "filename": "clip_Drowsiness_20251007T075026Z.mp4",
+    "event_type": "Drowsiness",
+    "timestamp": "2025-10-07 13:20:17.642770",
+    "gps_lat": 28.54204395857891,
+    "gps_lon": 77.386529997246,
+    "duration": 15.0
+  },
+  {
+    "id": 36,
+    "filename": "clip_Drowsiness_20251007T074947Z.mp4",
+    "event_type": "Drowsiness",
+    "timestamp": "2025-10-07 13:19:38.489632",
+    "gps_lat": 28.527845224549033,
+    "gps_lon": 77.39648356742073,
+    "duration": 15.0
+  },
+  {
+    "id": 35,
+    "filename": "clip_Yawning_20251007T074900Z.mp4",
+    "event_type": "Yawning",
+    "timestamp": "2025-10-07 13:18:51.928433",
+    "gps_lat": 28.52798389424607,
+    "gps_lon": 77.40065758924558,
+    "duration": 15.0
+  },
+  {
+    "id": 34,
+    "filename": "clip_Yawning_20251007T074805Z.mp4",
+    "event_type": "Yawning",
+    "timestamp": "2025-10-07 13:17:57.495453",
+    "gps_lat": 28.535569801517546,
+    "gps_lon": 77.39095202784888,
+    "duration": 15.0
+  },
+  {
+    "id": 33,
+    "filename": "clip_MobileUsage_20251007T074710Z.mp4",
+    "event_type": "MobileUsage",
+    "timestamp": "2025-10-07 13:17:01.445796",
+    "gps_lat": 28.526688249087957,
+    "gps_lon": 77.39162349099107,
+    "duration": 15.0
+  },
+  {
+    "id": 32,
+    "filename": "clip_NoSeatBelt_20251007T074628Z.mp4",
+    "event_type": "NoSeatBelt",
+    "timestamp": "2025-10-07 13:16:19.220078",
+    "gps_lat": 28.530689502848,
+    "gps_lon": 77.38981225146088,
+    "duration": 15.0
+  },
+  {
+    "id": 31,
+    "filename": "clip_NoSeatBelt_20251007T074516Z.mp4",
+    "event_type": "NoSeatBelt",
+    "timestamp": "2025-10-07 13:15:07.089969",
+    "gps_lat": 28.536658915157833,
+    "gps_lon": 77.3966241388258,
+    "duration": 15.0
+  },
+  {
+    "id": 30,
+    "filename": "clip_Dummy.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07T13:15:10.851169",
+    "gps_lat": 28.54,
+    "gps_lon": 77.38,
+    "duration": 30.0
+  },
+  {
+    "id": 29,
+    "filename": "clip_MobileUsage_20251007T074431Z.mp4",
+    "event_type": "MobileUsage",
+    "timestamp": "2025-10-07 13:14:22.769871",
+    "gps_lat": 28.538242296583704,
+    "gps_lon": 77.3819356766921,
+    "duration": 15.0
+  },
+  {
+    "id": 28,
+    "filename": "clip_ManualTrigger_20251007T074243Z.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07 13:12:34.778266",
+    "gps_lat": 28.5422499806389,
+    "gps_lon": 77.39793787999984,
+    "duration": 15.0
+  },
+  {
+    "id": 27,
+    "filename": "clip_Yawning_20251007T045857Z.mp4",
+    "event_type": "Yawning",
+    "timestamp": "2025-10-07 10:28:48.724686",
+    "gps_lat": 28.536706681996332,
+    "gps_lon": 77.4002594308685,
+    "duration": 15.0
+  },
+  {
+    "id": 26,
+    "filename": "clip_ManualTrigger_20251007T045852Z.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07 10:28:43.316177",
+    "gps_lat": 28.536125737976608,
+    "gps_lon": 77.38737326576322,
+    "duration": 15.0
+  },
+  {
+    "id": 25,
+    "filename": "clip_Dummy.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07T10:28:31.274247",
+    "gps_lat": 28.54,
+    "gps_lon": 77.38,
+    "duration": 30.0
+  },
+  {
+    "id": 24,
+    "filename": "clip_Drowsiness_20251007T045814Z.mp4",
+    "event_type": "Drowsiness",
+    "timestamp": "2025-10-07 10:28:05.086573",
+    "gps_lat": 28.533998312350555,
+    "gps_lon": 77.38201702852086,
+    "duration": 15.0
+  },
+  {
+    "id": 23,
+    "filename": "clip_Dummy.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07T10:27:35.004105",
+    "gps_lat": 28.54,
+    "gps_lon": 77.38,
+    "duration": 30.0
+  },
+  {
+    "id": 22,
+    "filename": "clip_Drowsiness_20251007T045729Z.mp4",
+    "event_type": "Drowsiness",
+    "timestamp": "2025-10-07 10:27:20.158329",
+    "gps_lat": 28.54522269151422,
+    "gps_lon": 77.3990312921359,
+    "duration": 15.0
+  },
+  {
+    "id": 21,
+    "filename": "clip_Yawning_20251007T045654Z.mp4",
+    "event_type": "Yawning",
+    "timestamp": "2025-10-07 10:26:45.211751",
+    "gps_lat": 28.53355014989653,
+    "gps_lon": 77.39064249665296,
+    "duration": 15.0
+  },
+  {
+    "id": 20,
+    "filename": "clip_MobileUsage_20251007T045626Z.mp4",
+    "event_type": "MobileUsage",
+    "timestamp": "2025-10-07 10:26:17.004396",
+    "gps_lat": 28.539695188302822,
+    "gps_lon": 77.39477199510029,
+    "duration": 15.0
+  },
+  {
+    "id": 19,
+    "filename": "clip_Drowsiness_20251007T045537Z.mp4",
+    "event_type": "Drowsiness",
+    "timestamp": "2025-10-07 10:25:28.938163",
+    "gps_lat": 28.542588389169065,
+    "gps_lon": 77.38114821012968,
+    "duration": 15.0
+  },
+  {
+    "id": 18,
+    "filename": "clip_ManualTrigger_20251007T045508Z.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07 10:24:59.112851",
+    "gps_lat": 28.529866045251598,
+    "gps_lon": 77.39479832152458,
+    "duration": 15.0
+  },
+  {
+    "id": 17,
+    "filename": "clip_Yawning_20251007T045442Z.mp4",
+    "event_type": "Yawning",
+    "timestamp": "2025-10-07 10:24:38.185529",
+    "gps_lat": 28.536997574548266,
+    "gps_lon": 77.38537298241543,
+    "duration": 7.0
+  },
+  {
+    "id": 16,
+    "filename": "clip_NoSeatBelt_20251007T045356Z.mp4",
+    "event_type": "NoSeatBelt",
+    "timestamp": "2025-10-07 10:23:47.956361",
+    "gps_lat": 28.526496979355187,
+    "gps_lon": 77.39348379990032,
+    "duration": 11.2
+  },
+  {
+    "id": 15,
+    "filename": "clip_Dummy.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07T10:23:43.191135",
+    "gps_lat": 28.54,
+    "gps_lon": 77.38,
+    "duration": 30.0
+  },
+  {
+    "id": 14,
+    "filename": "clip_Yawning_20251007T045325Z.mp4",
+    "event_type": "Yawning",
+    "timestamp": "2025-10-07 10:23:16.734988",
+    "gps_lat": 28.535867638750574,
+    "gps_lon": 77.39526967810461,
+    "duration": 15.0
+  },
+  {
+    "id": 13,
+    "filename": "clip_ManualTrigger_20251007T045304Z.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07 10:22:55.389680",
+    "gps_lat": 28.54390828317757,
+    "gps_lon": 77.40022663975734,
+    "duration": 15.0
+  },
+  {
+    "id": 12,
+    "filename": "clip_Dummy.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07T10:22:35.706167",
+    "gps_lat": 28.54,
+    "gps_lon": 77.38,
+    "duration": 30.0
+  },
+  {
+    "id": 11,
+    "filename": "clip_MobileUsage_20251007T045233Z.mp4",
+    "event_type": "MobileUsage",
+    "timestamp": "2025-10-07 10:22:24.417020",
+    "gps_lat": 28.53471320679515,
+    "gps_lon": 77.39249187201695,
+    "duration": 15.0
+  },
+  {
+    "id": 10,
+    "filename": "clip_NoSeatBelt_20251007T045154Z.mp4",
+    "event_type": "NoSeatBelt",
+    "timestamp": "2025-10-07 10:21:45.505726",
+    "gps_lat": 28.525846279293223,
+    "gps_lon": 77.39821631758565,
+    "duration": 15.0
+  },
+  {
+    "id": 9,
+    "filename": "clip_Yawning_20251007T045115Z.mp4",
+    "event_type": "Yawning",
+    "timestamp": "2025-10-07 10:21:07.119705",
+    "gps_lat": 28.532601794138852,
+    "gps_lon": 77.39235059354353,
+    "duration": 15.0
+  },
+  {
+    "id": 8,
+    "filename": "clip_Drowsiness_20251007T045008Z.mp4",
+    "event_type": "Drowsiness",
+    "timestamp": "2025-10-07 10:20:08.531061",
+    "gps_lat": 28.532712439649444,
+    "gps_lon": 77.40082592212713,
+    "duration": 0.1
+  },
+  {
+    "id": 7,
+    "filename": "clip_Dummy.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07T10:19:59.838105",
+    "gps_lat": 28.54,
+    "gps_lon": 77.38,
+    "duration": 30.0
+  },
+  {
+    "id": 6,
+    "filename": "clip_Dummy.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07T10:17:06.365908",
+    "gps_lat": 28.54,
+    "gps_lon": 77.38,
+    "duration": 30.0
+  },
+  {
+    "id": 5,
+    "filename": "clip_Dummy.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07T10:12:18.349540",
+    "gps_lat": 28.54,
+    "gps_lon": 77.38,
+    "duration": 30.0
+  },
+  {
+    "id": 4,
+    "filename": "clip_Dummy.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07T10:10:03.615613",
+    "gps_lat": 28.54,
+    "gps_lon": 77.38,
+    "duration": 30.0
+  },
+  {
+    "id": 3,
+    "filename": "clip_ManualTrigger_20251007T041655Z.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07T04:16:31.638971",
+    "gps_lat": 28.52943848810009,
+    "gps_lon": 77.38281320857527,
+    "duration": 40.0
+  },
+  {
+    "id": 2,
+    "filename": "clip_ManualTrigger_20251007T040403Z.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07T04:03:39.683851",
+    "gps_lat": 28.54448665782455,
+    "gps_lon": 77.39326256878729,
+    "duration": 40.0
+  },
+  {
+    "id": 1,
+    "filename": "clip_ManualTrigger_20251007T040148Z.mp4",
+    "event_type": "ManualTrigger",
+    "timestamp": "2025-10-07T04:01:24.590479",
+    "gps_lat": 28.544978350212183,
+    "gps_lon": 77.38475260123754,
+    "duration": 40.0
+  }
+]

@@ -1,0 +1,6 @@
+opencv-python==4.8.0.74        # Has GUI support (cv2.imshow)
+numpy<2                         # 1.x version compatible with OpenCV
+fastapi>=0.102.0                # Latest FastAPI with async support
+uvicorn>=0.24.0                 # FastAPI server
+python-multipart                # If you want file uploads later
+pydantic>=2.3                   # Required by FastAPI for models
