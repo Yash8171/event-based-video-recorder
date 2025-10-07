@@ -113,9 +113,9 @@ The video shows:
 **Yash Kumar Sahu**  
 B.Tech (CSE), SRMS College of Engineering & Technology  
 📍 Gurgaon, India  
-🌐 [Portfolio]()  
-💼 [LinkedIn]()  
-💻 [GitHub]()  
+🌐 [Portfolio](http://yks.netlify.app/)  
+💼 [LinkedIn](http://linkedin.com/in/yashkrsahu/)  
+💻 [GitHub](https://github.com/Yash8171)  
 
 ## 📄 License
 
