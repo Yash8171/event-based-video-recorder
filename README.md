@@ -97,7 +97,7 @@ Each event clip saves details like:
 }
 ```
 
-## 🎥 Demo Video
+<!-- ## 🎥 Demo Video
 
 📹 **Watch Demonstration Video**  
 (Add your YouTube or Google Drive video link here)
@@ -106,7 +106,7 @@ The video shows:
 - Live camera feed
 - Manual & simulated event triggers
 - Clip saving
-- FastAPI web interface usage
+- FastAPI web interface usage -->
 
 ## 🧑‍💻 Developer
 
